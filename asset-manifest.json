@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/course-goals-tracker/static/css/main.4ef17984.css",
+    "main.js": "/course-goals-tracker/static/js/main.8f628d46.js",
+    "index.html": "/course-goals-tracker/index.html",
+    "main.4ef17984.css.map": "/course-goals-tracker/static/css/main.4ef17984.css.map",
+    "main.8f628d46.js.map": "/course-goals-tracker/static/js/main.8f628d46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ef17984.css",
+    "static/js/main.8f628d46.js"
+  ]
+}
