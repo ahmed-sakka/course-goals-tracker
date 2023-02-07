@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './CourseGoalItem.css';
+import classes from './CourseGoalItem.module.css';
 
 const CourseGoalItem = props => {
   // const [deleteText, setDeleteText] = useState('');
@@ -11,7 +11,7 @@ const CourseGoalItem = props => {
   };
 
   return (
-    <li className="goal-item" onClick={deleteHandler}>
+    <li className={classes["goal-item"]} onClick={deleteHandler}>
       {props.children}
     </li>
   );
